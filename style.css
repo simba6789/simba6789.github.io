@@ -1,0 +1,17 @@
+body {
+   font-family: verdana;
+   font-size:12px;
+   text-align:center;
+   color:#630000;
+   background-color:#278F34
+   }
+a {
+   color:#FAEF8A;
+   background-color:#278F34;
+   width:100px;
+   padding:4px;
+   }
+IMG {
+   border-width:14px;
+   border-style: groove;
+   }
